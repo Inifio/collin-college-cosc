@@ -6,7 +6,7 @@ Review of control structures and data types with emphasis on structured data typ
 
 ## Student Learning Outcoms
 1.0	Demonstrate Competency in Object Oriented Programming.  
-    1.1	Break a problem down into class objects.  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.1	Break a problem down into class objects.  
     1.2	Design, code and document a term programming project using object-oriented methodology.  
 2.0 Demonstrate Competency in Program Documentation.  
     2.1	Construct a program heading and use program comments.  
