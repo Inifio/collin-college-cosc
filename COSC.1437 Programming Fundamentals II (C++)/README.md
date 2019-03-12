@@ -7,28 +7,28 @@ Review of control structures and data types with emphasis on structured data typ
 ## Student Learning Outcoms
 1.0	Demonstrate Competency in Object Oriented Programming.  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.1	Break a problem down into class objects.  
-    1.2	Design, code and document a term programming project using object-oriented methodology.  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.2	Design, code and document a term programming project using object-oriented methodology.  
 2.0 Demonstrate Competency in Program Documentation.  
-    2.1	Construct a program heading and use program comments.  
-    2.2	Print out a source listing.  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.1	Construct a program heading and use program comments.  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.2	Print out a source listing.  
 3.0	Demonstrate Competency in Algorithm Development.  
-    3.1	Complete all programming assignments.  
-    3.2	Complete the design using object-oriented methodology.  
-    3.3	Explain the ideas behind object reusability.  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.1	Complete all programming assignments.  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.2	Complete the design using object-oriented methodology.  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3.3	Explain the ideas behind object reusability.  
 4.0	Demonstrate Competency in Advanced Programming Techniques.  
-    4.1	Use the C++ preprocessor.  
-    4.2	Use pointers to functions.  
-    4.3	Understand memory management and dynamic allocation.  
-    4.4	Produce examples of reusable data containers (i.e. linked lists, trees, etc.) using templates.  
-    4.5	Understand the use of static members in a class.  
-    4/6	Create error-handling mechanisms using the “try”, “throw”, and “catch” capabilities of C++.  
-    4.7	Explain the use of overloading of operators.  
-    4.8	Design and code an inheritance hierarchy.  
-    4.9	Explain the use of overloading function names.  
-    4.10	Use a virtual function to explain polymorphism.  
-    4.11	Explain “has a” and “is a” relationships between classes.  
-    4.12	Design, code, and debug a semester programming project.  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.1	Use the C++ preprocessor.  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.2	Use pointers to functions.  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.3	Understand memory management and dynamic allocation.  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.4	Produce examples of reusable data containers (i.e. linked lists, trees, etc.) using templates.  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.5	Understand the use of static members in a class.  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4/6	Create error-handling mechanisms using the “try”, “throw”, and “catch” capabilities of C++.  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.7	Explain the use of overloading of operators.  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.8	Design and code an inheritance hierarchy.  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.9	Explain the use of overloading function names.  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.10	Use a virtual function to explain polymorphism.  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.11	Explain “has a” and “is a” relationships between classes.  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4.12	Design, code, and debug a semester programming project.  
 5.0	Demonstrate Competency in Code Testing & Maintenance.  
-    5.1	Use a C++ language based text editor compiler.  
-    5.2	Locate and explain syntax errors in a C++ program.  
-    5.3	Use techniques for debugging C++ programs.  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5.1	Use a C++ language based text editor compiler.  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5.2	Locate and explain syntax errors in a C++ program.  
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5.3	Use techniques for debugging C++ programs.  
