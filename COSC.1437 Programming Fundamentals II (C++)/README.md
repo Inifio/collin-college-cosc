@@ -5,8 +5,8 @@
 Review of control structures and data types with emphasis on structured data types. Applies the object-oriented programming paradigm, focusing on the definition and use of classes along with the fundamentals of object-oriented design. Includes basic analysis of algorithms, searching and sorting techniques, and an introduction to software engineering.
 
 ## Student Learning Outcoms
-1.0	Demonstrate Competency in Object Oriented Programming.
-    1.1	Break a problem down into class objects. 
+1.0	Demonstrate Competency in Object Oriented Programming.\n
+    1.1	Break a problem down into class objects.\n
     1.2	Design, code and document a term programming project using object-oriented methodology. 
 2.0 Demonstrate Competency in Program Documentation.
     2.1	Construct a program heading and use program comments. 
