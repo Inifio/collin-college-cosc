@@ -1,4 +1,4 @@
-# Programming Fundamentals I (C++)
+# Programming Fundamentals II (C++)
 #### Course Number: COSC 1437
 
 ## Course Description:
