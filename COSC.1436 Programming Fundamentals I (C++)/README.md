@@ -4,7 +4,7 @@
 ## Course Description:
 This course introduces the fundamental concepts of structured programming, and provides a comprehensive introduction to programming for computer science and technology majors.  Topics include software development methodology, data types, control structures, functions, arrays, and the mechanics of running, testing, and debugging.
 
-## Student Learning Outcoms
+## Student Learning Outcomes
 * Describe how data are represented, manipulated, and stored in a computer.  
 * Categorize different programming languages and their uses.  
 * Understand and use the fundamental concepts of data types, structured programming, algorithmic design, and user interface design.  

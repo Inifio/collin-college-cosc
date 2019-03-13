@@ -4,7 +4,7 @@
 ## Course Description:
 Review of control structures and data types with emphasis on structured data types. Applies the object-oriented programming paradigm, focusing on the definition and use of classes along with the fundamentals of object-oriented design. Includes basic analysis of algorithms, searching and sorting techniques, and an introduction to software engineering.
 
-## Student Learning Outcoms
+## Student Learning Outcomes
 1.0	Demonstrate Competency in Object Oriented Programming.  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.1	Break a problem down into class objects.  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.2	Design, code and document a term programming project using object-oriented methodology.  
